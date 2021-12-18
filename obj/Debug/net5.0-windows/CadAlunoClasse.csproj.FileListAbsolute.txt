@@ -1,0 +1,57 @@
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.exe
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.deps.json
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.runtimeconfig.json
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.runtimeconfig.dev.json
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.dll
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\bin\Debug\net5.0-windows\ref\CadAlunoClasse.dll
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.pdb
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.csproj.AssemblyReference.cache
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.Form1.resources
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.csproj.GenerateResource.cache
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.GeneratedMSBuildEditorConfig.editorconfig
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.AssemblyInfoInputs.cache
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.AssemblyInfo.cs
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.csproj.CoreCompileInputs.cache
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.dll
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\ref\CadAlunoClasse.dll
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.pdb
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.genruntimeconfig.cache
+S:\Turma 471 - Programador de Sistemas\_chrystian\CSharp\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.Tela2.resources
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.exe
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.deps.json
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.runtimeconfig.json
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.runtimeconfig.dev.json
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.dll
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\bin\Debug\net5.0-windows\ref\CadAlunoClasse.dll
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.pdb
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.csproj.AssemblyReference.cache
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.Form1.resources
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.Tela2.resources
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.csproj.GenerateResource.cache
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.GeneratedMSBuildEditorConfig.editorconfig
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.AssemblyInfoInputs.cache
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.AssemblyInfo.cs
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.csproj.CoreCompileInputs.cache
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.dll
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\ref\CadAlunoClasse.dll
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.pdb
+S:\Turma 471 - Programador de Sistemas\Jean\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.genruntimeconfig.cache
+D:\Github\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.exe
+D:\Github\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.deps.json
+D:\Github\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.runtimeconfig.json
+D:\Github\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.runtimeconfig.dev.json
+D:\Github\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.dll
+D:\Github\CadAlunoClasse\bin\Debug\net5.0-windows\ref\CadAlunoClasse.dll
+D:\Github\CadAlunoClasse\bin\Debug\net5.0-windows\CadAlunoClasse.pdb
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.csproj.AssemblyReference.cache
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.Form1.resources
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.Tela2.resources
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.csproj.GenerateResource.cache
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.AssemblyInfoInputs.cache
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.AssemblyInfo.cs
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.csproj.CoreCompileInputs.cache
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.dll
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\ref\CadAlunoClasse.dll
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.pdb
+D:\Github\CadAlunoClasse\obj\Debug\net5.0-windows\CadAlunoClasse.genruntimeconfig.cache
